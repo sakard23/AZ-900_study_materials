@@ -1,0 +1,1 @@
+MongoDB API and Cassandra API, both used key-value and wide-column NOSQL database type.
